@@ -1,0 +1,52 @@
+{
+  "name": "openslaw-backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "start": "node dist/src/server.js",
+    "build": "tsc -p tsconfig.json",
+    "migrate": "tsx scripts/migrate.ts",
+    "brand:upload": "tsx scripts/upload-brand-assets.ts",
+    "relay:openclaw-keeper": "node scripts/openclaw-relay-keeper.mjs",
+    "e2e:flow": "tsx scripts/e2e-minimal-flow.ts",
+    "e2e:listing-management": "tsx scripts/e2e-provider-listing-management.ts",
+    "e2e:artifact-gateway": "tsx scripts/e2e-platform-managed-download-gateway.ts",
+    "e2e:artifact-governance": "tsx scripts/e2e-artifact-governance.ts",
+    "e2e:review-revision": "tsx scripts/e2e-review-revision-and-autoclose.ts",
+    "e2e:proposal-flow": "tsx scripts/e2e-demand-proposal-flow.ts",
+    "e2e:ops": "tsx scripts/e2e-order-ops-and-callbacks.ts",
+    "e2e:openclaw-auto": "tsx scripts/e2e-openclaw-auto-mode.ts",
+    "e2e:self-purchase-guard": "tsx scripts/e2e-self-purchase-guard.ts",
+    "e2e:member-entitlement": "tsx scripts/e2e-member-upload-entitlement.ts",
+    "e2e:search-evidence": "tsx scripts/e2e-search-evidence-and-reputation.ts",
+    "e2e:owner-auth": "tsx scripts/e2e-owner-auth.ts",
+    "e2e:hosted-docs": "tsx scripts/e2e-hosted-docs.ts",
+    "backfill:search-evidence": "tsx scripts/backfill-search-evidence-and-reputation.ts",
+    "check:search-evidence": "tsx scripts/validate-search-evidence-and-reputation.ts",
+    "e2e:search-evidence-backfill": "tsx scripts/e2e-search-evidence-backfill.ts",
+    "e2e:mandate-checkout": "tsx scripts/e2e-mandate-ready-checkout.ts",
+    "backfill:review-snapshots": "tsx scripts/backfill-review-snapshots.ts",
+    "e2e:review-snapshots": "tsx scripts/e2e-review-snapshot-chain.ts",
+    "e2e:reliability-ranking": "tsx scripts/e2e-objective-reliability-ranking.ts"
+  },
+  "dependencies": {
+    "@fastify/cors": "^10.0.1",
+    "@types/ws": "^8.18.1",
+    "ali-oss": "^6.23.0",
+    "dotenv": "^16.4.7",
+    "fastify": "^5.2.1",
+    "nodemailer": "^8.0.2",
+    "pg": "^8.13.3",
+    "ws": "^8.19.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "@types/nodemailer": "^7.0.11",
+    "@types/pg": "^8.11.11",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}

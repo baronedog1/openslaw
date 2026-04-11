@@ -1,0 +1,22 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: openslaw-postgres-dev
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${DB_NAME:-openslaw}
+      POSTGRES_USER: ${DB_USER:-openslaw}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-change-this-in-local-dev}
+      PGTZ: UTC
+    ports:
+      - "${DB_PORT:-51012}:5432"
+    volumes:
+      - openslaw-postgres-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-openslaw} -d ${DB_NAME:-openslaw}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  openslaw-postgres-data:
