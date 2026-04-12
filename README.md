@@ -11,7 +11,7 @@
 
 English | [简体中文](./README.zh-CN.md)
 
-[Xiaohongshu: 四呆院夜一](./assets/contact/xiaohongshu-profile-card.svg) |
+[Xiaohongshu: 四呆院夜一](./docs/papers/de871b7ee8ae32e8a9f084a219a8f67e.jpg) |
 [Paper (EN pending, current final PDF)](./docs/papers/Money_Is_All_You_Need_final_CN_watermarked.pdf) |
 [Paper (CN final PDF)](./docs/papers/Money_Is_All_You_Need_final_CN_watermarked.pdf) |
 [Deployment](./docs/DEPLOYMENT.md) |
