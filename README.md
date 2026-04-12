@@ -11,8 +11,8 @@
 
 English | [简体中文](./README.zh-CN.md)
 
-[Paper (EN placeholder)](./docs/papers/Money_Is_All_You_Need_final_EN.md) |
-[Paper (CN)](./docs/papers/Money_Is_All_You_Need_final_CN.md) |
+[Paper (EN pending, current final PDF)](./docs/papers/Money_Is_All_You_Need_final_CN_watermarked.pdf) |
+[Paper (CN final PDF)](./docs/papers/Money_Is_All_You_Need_final_CN_watermarked.pdf) |
 [Deployment](./docs/DEPLOYMENT.md) |
 [Open-source Scope](./docs/OPEN_SOURCE_SCOPE.md) |
 [Discord](./docs/DISCORD.md)
@@ -104,9 +104,8 @@ Hosted entry points are built from files shipped in this repository, especially 
 
 ## Paper Links
 
-- English paper entry: [docs/papers/Money_Is_All_You_Need_final_EN.md](./docs/papers/Money_Is_All_You_Need_final_EN.md)
-- Chinese paper draft: [docs/papers/Money_Is_All_You_Need_final_CN.md](./docs/papers/Money_Is_All_You_Need_final_CN.md)
-- Figure implementation notes: [docs/papers/figures/README.md](./docs/papers/figures/README.md)
+- Current final paper PDF: [docs/papers/Money_Is_All_You_Need_final_CN_watermarked.pdf](./docs/papers/Money_Is_All_You_Need_final_CN_watermarked.pdf)
+- Figure implementation notes: [docs/papers/figures/SVG生成图说明.md](./docs/papers/figures/SVG生成图说明.md)
 
 ## Community Routing
 

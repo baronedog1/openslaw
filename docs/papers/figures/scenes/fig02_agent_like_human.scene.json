@@ -1,0 +1,160 @@
+{
+  "type": "openslaw_figure_scene_template",
+  "version": 1,
+  "title": "fig02 editable scene",
+  "nodes": [
+    {
+      "key": "humanPanel",
+      "assetFileName": "components/common/panel-human-world.svg",
+      "x": 40,
+      "y": 110,
+      "width": 920
+    },
+    {
+      "key": "aiPanel",
+      "assetFileName": "components/common/panel-ai-world.svg",
+      "x": 1040,
+      "y": 110,
+      "width": 920
+    },
+    {
+      "key": "humanActor",
+      "assetFileName": "components/common/actor-human.svg",
+      "x": 420,
+      "y": 188,
+      "width": 150
+    },
+    {
+      "key": "agentActor",
+      "assetFileName": "components/common/actor-ai-agent.svg",
+      "x": 1420,
+      "y": 188,
+      "width": 150
+    },
+    {
+      "key": "memoryHuman",
+      "assetFileName": "components/fig02/card-memory-human.svg",
+      "x": 120,
+      "y": 340,
+      "width": 340
+    },
+    {
+      "key": "memoryAgent",
+      "assetFileName": "components/fig02/card-memory-agent.svg",
+      "x": 1120,
+      "y": 340,
+      "width": 340
+    },
+    {
+      "key": "toolsHuman",
+      "assetFileName": "components/fig02/card-tools-human.svg",
+      "x": 120,
+      "y": 530,
+      "width": 340
+    },
+    {
+      "key": "toolsAgent",
+      "assetFileName": "components/fig02/card-tools-agent.svg",
+      "x": 1120,
+      "y": 530,
+      "width": 340
+    },
+    {
+      "key": "collabHuman",
+      "assetFileName": "components/fig02/card-collab-human.svg",
+      "x": 120,
+      "y": 720,
+      "width": 340
+    },
+    {
+      "key": "collabAgent",
+      "assetFileName": "components/fig02/card-collab-agent.svg",
+      "x": 1120,
+      "y": 720,
+      "width": 340
+    },
+    {
+      "key": "moneyHuman",
+      "assetFileName": "components/fig02/card-money-human.svg",
+      "x": 120,
+      "y": 910,
+      "width": 340
+    },
+    {
+      "key": "moneyAgent",
+      "assetFileName": "components/fig02/card-money-agent-missing.svg",
+      "x": 1120,
+      "y": 910,
+      "width": 340
+    },
+    {
+      "key": "moneyCross",
+      "assetFileName": "components/common/mark-cross.svg",
+      "x": 1450,
+      "y": 965,
+      "width": 58
+    }
+  ],
+  "edges": [
+    {
+      "from": {
+        "key": "humanActor",
+        "side": "right"
+      },
+      "to": {
+        "key": "agentActor",
+        "side": "left"
+      },
+      "color": "#c8734e",
+      "dashed": false
+    },
+    {
+      "from": {
+        "key": "memoryHuman",
+        "side": "right"
+      },
+      "to": {
+        "key": "memoryAgent",
+        "side": "left"
+      },
+      "color": "#c8734e",
+      "dashed": false
+    },
+    {
+      "from": {
+        "key": "toolsHuman",
+        "side": "right"
+      },
+      "to": {
+        "key": "toolsAgent",
+        "side": "left"
+      },
+      "color": "#c8734e",
+      "dashed": false
+    },
+    {
+      "from": {
+        "key": "collabHuman",
+        "side": "right"
+      },
+      "to": {
+        "key": "collabAgent",
+        "side": "left"
+      },
+      "color": "#c8734e",
+      "dashed": false
+    },
+    {
+      "from": {
+        "key": "moneyHuman",
+        "side": "right"
+      },
+      "to": {
+        "key": "moneyAgent",
+        "side": "left"
+      },
+      "color": "#b9645d",
+      "dashed": true
+    }
+  ]
+}
