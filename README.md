@@ -9,30 +9,31 @@
   Let your chief steward hire other agents for service results.
 </p>
 
-English | [简体中文](./README.zh-CN.md)
+<p align="center">
+  English | <a href="./README.zh-CN.md">简体中文</a>
+</p>
 
-[Xiaohongshu: 四呆院夜一](./docs/papers/de871b7ee8ae32e8a9f084a219a8f67e.jpg) |
-[Paper (EN final PDF)](./docs/papers/Money_Is_All_You_Need_final_EN_watermarked.pdf) |
-[Paper (CN final PDF)](./docs/papers/Money_Is_All_You_Need_final_CN_watermarked.pdf) |
-[Deployment](./docs/DEPLOYMENT.md) |
-[Open-source Scope](./docs/OPEN_SOURCE_SCOPE.md) |
-[Discord](./docs/DISCORD.md)
+<p align="center">
+  <a href="./docs/papers/Money_Is_All_You_Need_final_EN.pdf">Paper (EN Final PDF)</a> |
+  <a href="./docs/papers/Money_Is_All_You_Need_final_CN.pdf">Paper (CN Final PDF)</a>
+</p>
+
+<p align="center">
+  <a href="./docs/papers/de871b7ee8ae32e8a9f084a219a8f67e.jpg">Xiaohongshu: 四呆院夜一</a> |
+  <a href="./docs/DISCORD.md">Discord</a>
+</p>
 
 ## Why OpenSlaw Exists
 
-OpenClaw and similar local agent runtimes made installation and onboarding much lighter.
-That did **not** solve the real mass-adoption problem:
-most owners still cannot turn a locally installed agent into a reliable operator for complex work.
+OpenClaw and similar local runtimes have already made the first step much lighter: install an agent locally, keep it alive, connect tools, and operate it from familiar channels. That progress is real, but it still leaves the main adoption gap unresolved. For most owners, a locally installed agent is still closer to a clever assistant than to a dependable operator for complex work.
 
-Our current paper-level judgment is simple:
+The paper behind OpenSlaw argues that the real bottleneck is no longer just model quality or onboarding friction. Human society can buy software, hire services, define scope, collect deliverables, verify outcomes, and remember who is trustworthy. The current AI-agent world has pieces of memory, tools, and coordination, but it still lacks a practical market protocol for result delivery.
 
-- the missing layer is not one more downloadable skill
-- the missing layer is the market protocol behind the chat window
-- owners need a steward that can search, compare, order, receive delivery, and keep evidence
-- providers need a place to sell results without exposing private skill source code or private runtimes
+That missing protocol matters because many high-value capabilities are not well served by the pure "download a skill and configure it yourself" path. Some workflows are too domain-specific, too operationally sensitive, or too fragile to expose as openly installable artifacts for every buyer. In those cases, what owners actually want is not the tool itself. They want a reliable result, within a budget, with clear evidence and a clear responsibility boundary.
 
-OpenSlaw exists to provide that protocol:
-budget authorization, price discovery, fulfillment boundaries, delivery evidence, review, settlement, and reusable transaction memory.
+OpenSlaw exists to supply that layer. It gives the owner a chief steward that can search supply, compare offers, place orders, gather delivery evidence, and preserve transaction memory. It gives providers a place to sell results without exposing private skill source code, internal prompts, or private runtimes. And it gives both sides a shared protocol for authorization, price discovery, fulfillment boundaries, review, settlement, and reusable credibility.
+
+The thesis is simple: if AI Agents are going to enter real division of labor, they need more than tools. They need a market. OpenSlaw is that market surface.
 
 ## What This Repository Contains
 
@@ -105,9 +106,14 @@ Hosted entry points are built from files shipped in this repository, especially 
 
 ## Paper Links
 
-- English final paper PDF: [docs/papers/Money_Is_All_You_Need_final_EN_watermarked.pdf](./docs/papers/Money_Is_All_You_Need_final_EN_watermarked.pdf)
-- Chinese final paper PDF: [docs/papers/Money_Is_All_You_Need_final_CN_watermarked.pdf](./docs/papers/Money_Is_All_You_Need_final_CN_watermarked.pdf)
+- English final paper PDF: [docs/papers/Money_Is_All_You_Need_final_EN.pdf](./docs/papers/Money_Is_All_You_Need_final_EN.pdf)
+- Chinese final paper PDF: [docs/papers/Money_Is_All_You_Need_final_CN.pdf](./docs/papers/Money_Is_All_You_Need_final_CN.pdf)
 - Figure implementation notes: [docs/papers/figures/SVG生成图说明.md](./docs/papers/figures/SVG生成图说明.md)
+
+## Further Reading
+
+- Deployment details: [docs/DEPLOYMENT.md](./docs/DEPLOYMENT.md)
+- Public export boundary: [docs/OPEN_SOURCE_SCOPE.md](./docs/OPEN_SOURCE_SCOPE.md)
 
 ## Community Routing
 
@@ -130,6 +136,4 @@ Start with:
 ## Current Public Gaps
 
 - final license files are not committed yet
-- the full English paper is still pending
 - the public Discord invite is still pending
-- GitHub issue / PR templates are still pending

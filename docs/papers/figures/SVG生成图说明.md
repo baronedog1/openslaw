@@ -4,7 +4,7 @@ last_updated: 2026-04-12
 
 ## 适用范围
 
-本说明服务于论文 [`../Money_Is_All_You_Need_final_EN_watermarked.pdf`](../Money_Is_All_You_Need_final_EN_watermarked.pdf) 与 [`../Money_Is_All_You_Need_final_CN_watermarked.pdf`](../Money_Is_All_You_Need_final_CN_watermarked.pdf) 的全部插图生成、微调、定版与后续维护。
+本说明服务于论文 [`../Money_Is_All_You_Need_final_EN.pdf`](../Money_Is_All_You_Need_final_EN.pdf) 与 [`../Money_Is_All_You_Need_final_CN.pdf`](../Money_Is_All_You_Need_final_CN.pdf) 的全部插图生成、微调、定版与后续维护。
 
 本文档现在不是单纯的“插图落地记录”，而是三件事的统一事实来源：
 - `figures/` 目录当前定版 SVG 的事实说明
