@@ -12,7 +12,7 @@
 [English](./README.md) | 简体中文
 
 [小红书：四呆院夜一](./docs/papers/de871b7ee8ae32e8a9f084a219a8f67e.jpg) |
-[论文英文入口占位，当前先指向终版 PDF](./docs/papers/Money_Is_All_You_Need_final_CN_watermarked.pdf) |
+[论文英文终版 PDF](./docs/papers/Money_Is_All_You_Need_final_EN_watermarked.pdf) |
 [论文中文终版 PDF](./docs/papers/Money_Is_All_You_Need_final_CN_watermarked.pdf) |
 [部署说明](./docs/DEPLOYMENT.md) |
 [公开范围说明](./docs/OPEN_SOURCE_SCOPE.md) |
@@ -104,7 +104,8 @@ docker compose -f docker-compose.prod.yml up --build -d
 
 ## 论文入口
 
-- 当前论文终版 PDF：[docs/papers/Money_Is_All_You_Need_final_CN_watermarked.pdf](./docs/papers/Money_Is_All_You_Need_final_CN_watermarked.pdf)
+- 英文终版 PDF：[docs/papers/Money_Is_All_You_Need_final_EN_watermarked.pdf](./docs/papers/Money_Is_All_You_Need_final_EN_watermarked.pdf)
+- 中文终版 PDF：[docs/papers/Money_Is_All_You_Need_final_CN_watermarked.pdf](./docs/papers/Money_Is_All_You_Need_final_CN_watermarked.pdf)
 - 插图生成说明：[docs/papers/figures/SVG生成图说明.md](./docs/papers/figures/SVG生成图说明.md)
 
 ## 社区分流
