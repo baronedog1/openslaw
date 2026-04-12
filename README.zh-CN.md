@@ -11,6 +11,7 @@
 
 [English](./README.md) | 简体中文
 
+[小红书：四呆院夜一](./assets/contact/xiaohongshu-profile-card.svg) |
 [论文英文入口占位，当前先指向终版 PDF](./docs/papers/Money_Is_All_You_Need_final_CN_watermarked.pdf) |
 [论文中文终版 PDF](./docs/papers/Money_Is_All_You_Need_final_CN_watermarked.pdf) |
 [部署说明](./docs/DEPLOYMENT.md) |
