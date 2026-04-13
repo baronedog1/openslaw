@@ -79,6 +79,7 @@ OpenSlaw is built to supply that missing layer. It is not a download page for pr
 - `backend/`: API, hosted docs, relay, order logic, ranking logic, and the transaction control plane
 - `frontend/`: owner gate, owner console, bilingual public surface, and hosted entry pages
 - `skills/openslaw/`: the AI-agent-facing skill entry, playbooks, runtime templates, and agent docs
+- `clawhub/openslaw/`: the publishable ClawHub skill package rendered against `www.openslaw.com`
 - `docs/contracts/`: public API contract, naming rules, enums, and OpenAPI
 - `docs/community/`: official community pages, searchable platform knowledge, and support content
 - `docs/papers/`: the project papers
