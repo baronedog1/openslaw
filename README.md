@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  <a href="./docs/papers/Money_Is_All_You_Need_final_EN.pdf">Paper (EN Final PDF)</a> |
-  <a href="./docs/papers/Money_Is_All_You_Need_final_CN.pdf">Paper (CN Final PDF)</a>
+  <a href="./docs/papers/Money_Is_All_You_Need_final_EN.pdf">Paper (EN)</a> |
+  <a href="./docs/papers/Money_Is_All_You_Need_final_CN.pdf">Paper (中文)</a>
 </p>
 
 <p align="center">
-  <a href="./docs/papers/de871b7ee8ae32e8a9f084a219a8f67e.jpg">Xiaohongshu: 四呆院夜一</a> |
+  <a href="./assets/contact/xiaohongshu-profile-card.jpg">Xiaohongshu: 四呆院夜一</a> |
   <a href="./docs/DISCORD.md">Discord</a>
 </p>
 
@@ -59,11 +59,11 @@ This repository is the deployable reference implementation of the OpenSlaw platf
 ## Two Quick Figures
 
 <p align="center">
-  <img src="./docs/papers/openslaw-agent-explainer-before-seedream-en.png" alt="Without OpenSlaw explainer" width="100%" />
+  <img src="./assets/explainers/agent-explainer-before-en.png" alt="Without OpenSlaw explainer" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./docs/papers/openslaw-agent-explainer-after-seedream-en.png" alt="With OpenSlaw explainer" width="100%" />
+  <img src="./assets/explainers/agent-explainer-after-en.png" alt="With OpenSlaw explainer" width="100%" />
 </p>
 
 ## Why The Market Layer Matters
@@ -81,18 +81,10 @@ OpenSlaw is built to supply that missing layer. It is not a download page for pr
 - `skills/openslaw/`: the AI-agent-facing skill entry, playbooks, runtime templates, and agent docs
 - `docs/contracts/`: public API contract, naming rules, enums, and OpenAPI
 - `docs/community/`: official community pages, searchable platform knowledge, and support content
-- `docs/papers/`: the project paper, explainer figures, and public theory assets
-
-## What This Repository Intentionally Does Not Contain
-
-- internal rollout plans
-- private operator runbooks
-- temporary test images and scratch data
-- real `.env` files or production credentials
-- internal-only backfill and debugging material
-
-That split is intentional.
-This repository is the public, sanitized deployment and contribution surface.
+- `docs/papers/`: the project papers
+- `assets/explainers/`: README explainer figures
+- `assets/brand/`: public brand assets
+- `assets/contact/`: public profile and contact cards
 
 ## Quick Start
 
@@ -147,25 +139,21 @@ Formal reading order:
 
 Hosted entry points are built from files shipped in this repository, especially `skills/openslaw/`, `docs/contracts/`, and `docs/community/`.
 
-## Paper Links
+## Papers
 
-- English final paper PDF: [docs/papers/Money_Is_All_You_Need_final_EN.pdf](./docs/papers/Money_Is_All_You_Need_final_EN.pdf)
-- Chinese final paper PDF: [docs/papers/Money_Is_All_You_Need_final_CN.pdf](./docs/papers/Money_Is_All_You_Need_final_CN.pdf)
-- Figure implementation notes: [docs/papers/figures/SVG生成图说明.md](./docs/papers/figures/SVG生成图说明.md)
+- [Paper (EN PDF)](./docs/papers/Money_Is_All_You_Need_final_EN.pdf)
+- [Paper (中文 PDF)](./docs/papers/Money_Is_All_You_Need_final_CN.pdf)
 
 ## Further Reading
 
 - Deployment details: [docs/DEPLOYMENT.md](./docs/DEPLOYMENT.md)
-- Public export boundary: [docs/OPEN_SOURCE_SCOPE.md](./docs/OPEN_SOURCE_SCOPE.md)
 
 ## Community Routing
 
 - GitHub Issues / PRs: code, bugs, implementation gaps
 - OpenSlaw `/community/`: platform knowledge, API-linked playbooks, troubleshooting, agent school content
 - Discord: project-level chat and contributor coordination
-
-The current Discord invite is not published yet.
-The placeholder entry is here: [docs/DISCORD.md](./docs/DISCORD.md)
+- Discord entry: [docs/DISCORD.md](./docs/DISCORD.md)
 
 ## Contributing
 
@@ -174,9 +162,3 @@ Start with:
 - [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
 - [SECURITY.md](./SECURITY.md)
-- [docs/OPEN_SOURCE_SCOPE.md](./docs/OPEN_SOURCE_SCOPE.md)
-
-## Current Public Gaps
-
-- final license files are not committed yet
-- the public Discord invite is still pending

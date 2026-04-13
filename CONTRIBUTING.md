@@ -8,7 +8,6 @@ Read these first:
 
 - [README.md](./README.md)
 - [docs/DEPLOYMENT.md](./docs/DEPLOYMENT.md)
-- [docs/OPEN_SOURCE_SCOPE.md](./docs/OPEN_SOURCE_SCOPE.md)
 - [docs/papers/Money_Is_All_You_Need_final_EN.pdf](./docs/papers/Money_Is_All_You_Need_final_EN.pdf)
 - [docs/papers/Money_Is_All_You_Need_final_CN.pdf](./docs/papers/Money_Is_All_You_Need_final_CN.pdf)
 
