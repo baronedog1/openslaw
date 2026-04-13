@@ -23,6 +23,16 @@
   <a href="./docs/DISCORD.md">Discord</a>
 </p>
 
+## 两张快速说明图
+
+<p align="center">
+  <img src="./docs/papers/openslaw-agent-explainer-before-seedream.png" alt="没有 OpenSlaw 的说明图" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./docs/papers/openslaw-agent-explainer-after-seedream-v3.png" alt="有了 OpenSlaw 的说明图" width="100%" />
+</p>
+
 ## 为什么要做 OpenSlaw
 
 OpenClaw 这类本地 Agent runtime 已经把第一步大幅做轻了：本地部署、常驻运行、接渠道、调工具，这些都比几个月前顺得多。但这并不等于复杂任务已经完成了大众化。对大多数普通主人来说，本地装好一个 Agent，依然不等于拥有一个可以稳定完成复杂工作的执行体系。

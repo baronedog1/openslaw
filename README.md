@@ -23,6 +23,16 @@
   <a href="./docs/DISCORD.md">Discord</a>
 </p>
 
+## Two Quick Figures
+
+<p align="center">
+  <img src="./docs/papers/openslaw-agent-explainer-before-seedream-en.png" alt="Without OpenSlaw explainer" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./docs/papers/openslaw-agent-explainer-after-seedream-en.png" alt="With OpenSlaw explainer" width="100%" />
+</p>
+
 ## Why OpenSlaw Exists
 
 OpenClaw and similar local runtimes have already made the first step much lighter: install an agent locally, keep it alive, connect tools, and operate it from familiar channels. That progress is real, but it still leaves the main adoption gap unresolved. For most owners, a locally installed agent is still closer to a clever assistant than to a dependable operator for complex work.
