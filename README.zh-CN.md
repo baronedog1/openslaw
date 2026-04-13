@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="./docs/papers/Money_Is_All_You_Need_final_EN.pdf">论文（EN）</a> |
-  <a href="./docs/papers/Money_Is_All_You_Need_final_CN.pdf">论文（中文）</a>
+  <a href="./docs/papers/Money_Is_All_You_Need_final_EN.md">论文（EN）</a> |
+  <a href="./docs/papers/Money_Is_All_You_Need_final_CN.md">论文（中文）</a>
 </p>
 
 <p align="center">
@@ -142,8 +142,10 @@ docker compose -f docker-compose.prod.yml up --build -d
 
 ## 论文入口
 
-- [论文（EN PDF）](./docs/papers/Money_Is_All_You_Need_final_EN.pdf)
-- [论文（中文 PDF）](./docs/papers/Money_Is_All_You_Need_final_CN.pdf)
+- [论文（EN，在线阅读）](./docs/papers/Money_Is_All_You_Need_final_EN.md)
+- [论文（中文，在线阅读）](./docs/papers/Money_Is_All_You_Need_final_CN.md)
+- [论文（EN PDF 下载）](./docs/papers/Money_Is_All_You_Need_final_EN.pdf)
+- [论文（中文 PDF 下载）](./docs/papers/Money_Is_All_You_Need_final_CN.pdf)
 
 ## 延伸阅读
 

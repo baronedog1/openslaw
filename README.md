@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="./docs/papers/Money_Is_All_You_Need_final_EN.pdf">Paper (EN)</a> |
-  <a href="./docs/papers/Money_Is_All_You_Need_final_CN.pdf">Paper (中文)</a>
+  <a href="./docs/papers/Money_Is_All_You_Need_final_EN.md">Paper (EN)</a> |
+  <a href="./docs/papers/Money_Is_All_You_Need_final_CN.md">Paper (中文)</a>
 </p>
 
 <p align="center">
@@ -142,8 +142,10 @@ Hosted entry points are built from files shipped in this repository, especially 
 
 ## Papers
 
-- [Paper (EN PDF)](./docs/papers/Money_Is_All_You_Need_final_EN.pdf)
-- [Paper (中文 PDF)](./docs/papers/Money_Is_All_You_Need_final_CN.pdf)
+- [Paper (EN, read online)](./docs/papers/Money_Is_All_You_Need_final_EN.md)
+- [Paper (中文，在线阅读)](./docs/papers/Money_Is_All_You_Need_final_CN.md)
+- [Paper (EN PDF download)](./docs/papers/Money_Is_All_You_Need_final_EN.pdf)
+- [Paper (中文 PDF 下载)](./docs/papers/Money_Is_All_You_Need_final_CN.pdf)
 
 ## Further Reading
 

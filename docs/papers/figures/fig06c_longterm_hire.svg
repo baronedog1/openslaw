@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1616" height="968" viewBox="0 0 1616 968">
+  <defs>
+
+    <marker id="canvasArrowExport-_D7A545" viewBox="0 0 8 8" refX="6.2" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#D7A545"></path>
+    </marker>
+
+    <marker id="canvasArrowExport-_7A9984" viewBox="0 0 8 8" refX="6.2" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#7A9984"></path>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="1616" height="968" fill="#f7f0e4"></rect>
+  <g transform="translate(-96, -96.79999923706055)">
+  
+  <svg xmlns="http://www.w3.org/2000/svg" width="1568" height="920" viewBox="16 10 1568 920" x="120" y="120.79999923706055" preserveAspectRatio="xMidYMid meet"><defs xmlns="http://www.w3.org/2000/svg">
+    <marker id="arrow" viewBox="0 0 8 8" refX="6.2" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#C8734E"/>
+    </marker>
+  </defs><g xmlns="http://www.w3.org/2000/svg" data-editor-group="component" data-editor-name="export-frame"><rect x="28" y="22" width="1544" height="896" rx="28" ry="28" fill="none" stroke="#CDBDA7" stroke-width="2" opacity="0.45"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="894" height="105" viewBox="353 9 894 105" x="457.3000183105469" y="120" preserveAspectRatio="xMidYMid meet"><defs xmlns="http://www.w3.org/2000/svg">
+    <marker id="arrow" viewBox="0 0 8 8" refX="6.2" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#C8734E"/>
+    </marker>
+  </defs><g xmlns="http://www.w3.org/2000/svg" data-editor-group="component" data-editor-name="title-block"><g data-editor-subitem="true" data-editor-subitem-name="title"><text x="800" y="74" text-anchor="middle" font-size="46" font-weight="700" font-family="'Noto Serif SC','Source Han Serif SC','Songti SC',serif" fill="#1F2A24"><tspan x="800" y="74" text-anchor="middle">长期合作 / 雇佣：高频供给沉淀为长期关系</tspan></text></g><g data-editor-subitem="true" data-editor-subitem-name="underline"><line x1="520" y1="102" x2="1080" y2="102" stroke="#C8734E" stroke-width="5" stroke-linecap="round"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="154" height="154" viewBox="88 238 154 154" x="192" y="348.79999923706055" preserveAspectRatio="xMidYMid meet"><defs xmlns="http://www.w3.org/2000/svg">
+    <marker id="arrow" viewBox="0 0 8 8" refX="6.2" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#C8734E"/>
+    </marker>
+  </defs><g xmlns="http://www.w3.org/2000/svg" data-editor-group="component" data-editor-name="actor:主人"><g data-editor-subitem="true" data-editor-subitem-name="actor-shell"><rect x="100" y="250" width="130" height="130" rx="34" ry="34" fill="#F4E5BF" stroke="#D7A545" stroke-width="2.5"/></g><g data-editor-subitem="true" data-editor-subitem-name="actor-icon"><circle cx="165" cy="284" r="22" fill="#FFF9F1" stroke="#D7A545" stroke-width="3"/><path d="M 131 350 Q 165 310 199 350" fill="none" stroke="#D7A545" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><line x1="165" y1="306" x2="165" y2="340" stroke="#D7A545" stroke-width="3" stroke-linecap="round"/></g><g data-editor-subitem="true" data-editor-subitem-name="actor-label"><text x="165" y="362" text-anchor="middle" font-size="22" font-weight="700" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#1F2A24"><tspan x="165" y="362" text-anchor="middle">主人</tspan></text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="159" viewBox="268 225 162 159" x="372" y="335.79999923706055" preserveAspectRatio="xMidYMid meet"><defs xmlns="http://www.w3.org/2000/svg">
+    <marker id="arrow" viewBox="0 0 8 8" refX="6.2" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#C8734E"/>
+    </marker>
+  </defs><g xmlns="http://www.w3.org/2000/svg" data-editor-group="component" data-editor-name="agent:需求侧大管家"><g data-editor-subitem="true" data-editor-subitem-name="agent-shell"><rect x="280" y="240" width="138" height="132" rx="34" ry="34" fill="#DDEAF3" stroke="#3F6E8C" stroke-width="2.5"/></g><g data-editor-subitem="true" data-editor-subitem-name="agent-icon"><rect x="310" y="260" width="78" height="54" rx="16" ry="16" fill="#FFF9F1" stroke="#3F6E8C" stroke-width="3"/><circle cx="336" cy="287" r="8" fill="#3F6E8C" stroke="none" stroke-width="2"/><circle cx="362" cy="287" r="8" fill="#3F6E8C" stroke="none" stroke-width="2"/><line x1="334" y1="314" x2="364" y2="314" stroke="#3F6E8C" stroke-width="3" stroke-linecap="round"/><line x1="349" y1="260" x2="349" y2="246" stroke="#3F6E8C" stroke-width="3" stroke-linecap="round"/><circle cx="349" cy="242" r="5" fill="#3F6E8C" stroke="none" stroke-width="2"/></g><g data-editor-subitem="true" data-editor-subitem-name="agent-label"><text x="349" y="354" text-anchor="middle" font-size="22" font-weight="700" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#1F2A24"><tspan x="349" y="354" text-anchor="middle">需求侧Agent</tspan></text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1004" height="624" viewBox="508 158 1004 624" x="612" y="268.79999923706055" preserveAspectRatio="xMidYMid meet"><defs xmlns="http://www.w3.org/2000/svg">
+    <marker id="arrow" viewBox="0 0 8 8" refX="6.2" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#C8734E"/>
+    </marker>
+  </defs><g xmlns="http://www.w3.org/2000/svg" data-editor-group="component" data-editor-name="card:长期合作网络"><g data-editor-subitem="true" data-editor-subitem-name="card-shell" transform="translate(-1.34 10.02)"><rect x="520" y="170" width="980" height="600" rx="30" ry="30" fill="#FFF9F1" stroke="#CDBDA7" stroke-width="2"/></g><g data-editor-subitem="true" data-editor-subitem-name="card-header"><rect x="520" y="170" width="980" height="14" rx="30" ry="30" fill="#7A9984" stroke="none" stroke-width="2"/></g><g data-editor-subitem="true" data-editor-subitem-name="card-title"><text x="548" y="222" text-anchor="start" font-size="28" font-weight="700" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#1F2A24"><tspan x="941.86" y="222" text-anchor="start">长期合作网络</tspan></text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="139" viewBox="608 238 264 139" x="712" y="348.79999923706055" preserveAspectRatio="xMidYMid meet"><defs xmlns="http://www.w3.org/2000/svg">
+    <marker id="arrow" viewBox="0 0 8 8" refX="6.2" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#C8734E"/>
+    </marker>
+  </defs><g xmlns="http://www.w3.org/2000/svg" data-editor-group="component" data-editor-name="module:固定视频供给"><g data-editor-subitem="true" data-editor-subitem-name="module-shell"><rect x="620" y="250" width="240" height="110" rx="26" ry="26" fill="#DCE9DF" stroke="#7A9984" stroke-width="2"/></g><g data-editor-subitem="true" data-editor-subitem-name="module-title"><text x="740" y="294" text-anchor="middle" font-size="26" font-weight="700" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#1F2A24"><tspan x="740" y="294" text-anchor="middle">固定视频供给</tspan></text></g><g data-editor-subitem="true" data-editor-subitem-name="module-body"><text x="740" y="332" text-anchor="middle" font-size="20" font-weight="500" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#6E726C"><tspan x="742.01" y="321.9" text-anchor="middle">月度任务包</tspan><tspan x="742.01" y="349.38" text-anchor="middle">持续风格记忆</tspan></text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="134" viewBox="938 238 264 134" x="1042" y="348.79999923706055" preserveAspectRatio="xMidYMid meet"><defs xmlns="http://www.w3.org/2000/svg">
+    <marker id="arrow" viewBox="0 0 8 8" refX="6.2" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#C8734E"/>
+    </marker>
+  </defs><g xmlns="http://www.w3.org/2000/svg" data-editor-group="component" data-editor-name="module:固定研究供给"><g data-editor-subitem="true" data-editor-subitem-name="module-shell"><rect x="950" y="250" width="240" height="110" rx="26" ry="26" fill="#DCE9DF" stroke="#7A9984" stroke-width="2"/></g><g data-editor-subitem="true" data-editor-subitem-name="module-title"><text x="1070" y="294" text-anchor="middle" font-size="26" font-weight="700" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#1F2A24"><tspan x="1070" y="294" text-anchor="middle">固定研究供给</tspan></text></g><g data-editor-subitem="true" data-editor-subitem-name="module-body"><text x="1070" y="332" text-anchor="middle" font-size="20" font-weight="500" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#6E726C"><tspan x="1070" y="332" text-anchor="middle">按次 / 按周协作</tspan></text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="134" viewBox="1265 238 180 134" x="1369.0001220703125" y="348.79999923706055" preserveAspectRatio="xMidYMid meet"><defs xmlns="http://www.w3.org/2000/svg">
+    <marker id="arrow" viewBox="0 0 8 8" refX="6.2" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#C8734E"/>
+    </marker>
+  </defs><g xmlns="http://www.w3.org/2000/svg" data-editor-group="component" data-editor-name="module:固定写作供给"><g data-editor-subitem="true" data-editor-subitem-name="module-shell"><rect x="1280" y="250" width="150" height="110" rx="26" ry="26" fill="#DCE9DF" stroke="#7A9984" stroke-width="2"/></g><g data-editor-subitem="true" data-editor-subitem-name="module-title"><text x="1355" y="294" text-anchor="middle" font-size="26" font-weight="700" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#1F2A24"><tspan x="1355" y="294" text-anchor="middle">固定写作供给</tspan></text></g><g data-editor-subitem="true" data-editor-subitem-name="module-body"><text x="1355" y="332" text-anchor="middle" font-size="20" font-weight="500" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#6E726C"><tspan x="1355" y="332" text-anchor="middle">长期协作</tspan></text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="159" viewBox="658 455 162 159" x="782.666748046875" y="573.1333122253418" preserveAspectRatio="xMidYMid meet"><defs xmlns="http://www.w3.org/2000/svg">
+    <marker id="arrow" viewBox="0 0 8 8" refX="6.2" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#C8734E"/>
+    </marker>
+  </defs><g xmlns="http://www.w3.org/2000/svg" data-editor-group="component" data-editor-name="agent:供给方 Agent"><g data-editor-subitem="true" data-editor-subitem-name="agent-shell"><rect x="670" y="470" width="138" height="132" rx="34" ry="34" fill="#DDEAF3" stroke="#3F6E8C" stroke-width="2.5"/></g><g data-editor-subitem="true" data-editor-subitem-name="agent-icon"><rect x="700" y="490" width="78" height="54" rx="16" ry="16" fill="#FFF9F1" stroke="#3F6E8C" stroke-width="3"/><circle cx="726" cy="517" r="8" fill="#3F6E8C" stroke="none" stroke-width="2"/><circle cx="752" cy="517" r="8" fill="#3F6E8C" stroke="none" stroke-width="2"/><line x1="724" y1="544" x2="754" y2="544" stroke="#3F6E8C" stroke-width="3" stroke-linecap="round"/><line x1="739" y1="490" x2="739" y2="476" stroke="#3F6E8C" stroke-width="3" stroke-linecap="round"/><circle cx="739" cy="472" r="5" fill="#3F6E8C" stroke="none" stroke-width="2"/></g><g data-editor-subitem="true" data-editor-subitem-name="agent-label"><text x="739" y="584" text-anchor="middle" font-size="22" font-weight="700" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#1F2A24"><tspan x="739" y="584" text-anchor="middle">供给方 Agent</tspan></text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="159" viewBox="988 455 162 159" x="1114" y="571.133373260498" preserveAspectRatio="xMidYMid meet"><defs xmlns="http://www.w3.org/2000/svg">
+    <marker id="arrow" viewBox="0 0 8 8" refX="6.2" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#C8734E"/>
+    </marker>
+  </defs><g xmlns="http://www.w3.org/2000/svg" data-editor-group="component" data-editor-name="agent:供给方 Agent"><g data-editor-subitem="true" data-editor-subitem-name="agent-shell"><rect x="1000" y="470" width="138" height="132" rx="34" ry="34" fill="#DDEAF3" stroke="#3F6E8C" stroke-width="2.5"/></g><g data-editor-subitem="true" data-editor-subitem-name="agent-icon"><rect x="1030" y="490" width="78" height="54" rx="16" ry="16" fill="#FFF9F1" stroke="#3F6E8C" stroke-width="3"/><circle cx="1056" cy="517" r="8" fill="#3F6E8C" stroke="none" stroke-width="2"/><circle cx="1082" cy="517" r="8" fill="#3F6E8C" stroke="none" stroke-width="2"/><line x1="1054" y1="544" x2="1084" y2="544" stroke="#3F6E8C" stroke-width="3" stroke-linecap="round"/><line x1="1069" y1="490" x2="1069" y2="476" stroke="#3F6E8C" stroke-width="3" stroke-linecap="round"/><circle cx="1069" cy="472" r="5" fill="#3F6E8C" stroke="none" stroke-width="2"/></g><g data-editor-subitem="true" data-editor-subitem-name="agent-label"><text x="1069" y="584" text-anchor="middle" font-size="22" font-weight="700" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#1F2A24"><tspan x="1069" y="584" text-anchor="middle">供给方 Agent</tspan></text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="159" viewBox="1258 455 162 159" x="1378.666748046875" y="567.7999992370605" preserveAspectRatio="xMidYMid meet"><defs xmlns="http://www.w3.org/2000/svg">
+    <marker id="arrow" viewBox="0 0 8 8" refX="6.2" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#C8734E"/>
+    </marker>
+  </defs><g xmlns="http://www.w3.org/2000/svg" data-editor-group="component" data-editor-name="agent:供给方 Agent"><g data-editor-subitem="true" data-editor-subitem-name="agent-shell"><rect x="1270" y="470" width="138" height="132" rx="34" ry="34" fill="#DDEAF3" stroke="#3F6E8C" stroke-width="2.5"/></g><g data-editor-subitem="true" data-editor-subitem-name="agent-icon"><rect x="1300" y="490" width="78" height="54" rx="16" ry="16" fill="#FFF9F1" stroke="#3F6E8C" stroke-width="3"/><circle cx="1326" cy="517" r="8" fill="#3F6E8C" stroke="none" stroke-width="2"/><circle cx="1352" cy="517" r="8" fill="#3F6E8C" stroke="none" stroke-width="2"/><line x1="1324" y1="544" x2="1354" y2="544" stroke="#3F6E8C" stroke-width="3" stroke-linecap="round"/><line x1="1339" y1="490" x2="1339" y2="476" stroke="#3F6E8C" stroke-width="3" stroke-linecap="round"/><circle cx="1339" cy="472" r="5" fill="#3F6E8C" stroke="none" stroke-width="2"/></g><g data-editor-subitem="true" data-editor-subitem-name="agent-label"><text x="1339" y="584" text-anchor="middle" font-size="22" font-weight="700" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#1F2A24"><tspan x="1339" y="584" text-anchor="middle">供给方 Agent</tspan></text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="72" viewBox="688 638 184 72" x="773.3333740234375" y="750.7999992370605" preserveAspectRatio="xMidYMid meet"><defs xmlns="http://www.w3.org/2000/svg">
+    <marker id="arrow" viewBox="0 0 8 8" refX="6.2" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#C8734E"/>
+    </marker>
+  </defs><g xmlns="http://www.w3.org/2000/svg" data-editor-group="component" data-editor-name="chip:周期协作"><g data-editor-subitem="true" data-editor-subitem-name="chip-shell"><rect x="700" y="650" width="160" height="48" rx="24" ry="24" fill="#E7F0E9" stroke="#BBD2C0" stroke-width="2"/></g><g data-editor-subitem="true" data-editor-subitem-name="chip-label"><text x="780" y="682" text-anchor="middle" font-size="20" font-weight="600" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#1F2A24"><tspan x="780" y="682" text-anchor="middle">周期协作</tspan></text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="72" viewBox="1018 638 184 72" x="1096" y="755.466625213623" preserveAspectRatio="xMidYMid meet"><defs xmlns="http://www.w3.org/2000/svg">
+    <marker id="arrow" viewBox="0 0 8 8" refX="6.2" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#C8734E"/>
+    </marker>
+  </defs><g xmlns="http://www.w3.org/2000/svg" data-editor-group="component" data-editor-name="chip:任务包"><g data-editor-subitem="true" data-editor-subitem-name="chip-shell"><rect x="1030" y="650" width="160" height="48" rx="24" ry="24" fill="#E7F0E9" stroke="#BBD2C0" stroke-width="2"/></g><g data-editor-subitem="true" data-editor-subitem-name="chip-label"><text x="1110" y="682" text-anchor="middle" font-size="20" font-weight="600" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#1F2A24"><tspan x="1110" y="682" text-anchor="middle">任务包</tspan></text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="72" viewBox="1288 638 184 72" x="1381.3333740234375" y="761.4666862487793" preserveAspectRatio="xMidYMid meet"><defs xmlns="http://www.w3.org/2000/svg">
+    <marker id="arrow" viewBox="0 0 8 8" refX="6.2" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#C8734E"/>
+    </marker>
+  </defs><g xmlns="http://www.w3.org/2000/svg" data-editor-group="component" data-editor-name="chip:长期关系"><g data-editor-subitem="true" data-editor-subitem-name="chip-shell"><rect x="1300" y="650" width="160" height="48" rx="24" ry="24" fill="#E7F0E9" stroke="#BBD2C0" stroke-width="2"/></g><g data-editor-subitem="true" data-editor-subitem-name="chip-label"><text x="1380" y="682" text-anchor="middle" font-size="20" font-weight="600" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#1F2A24"><tspan x="1380" y="682" text-anchor="middle">长期关系</tspan></text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="134" viewBox="748 348 24 134" x="852" y="458.79999923706055" preserveAspectRatio="xMidYMid meet"><defs xmlns="http://www.w3.org/2000/svg">
+    <marker id="arrow" viewBox="0 0 8 8" refX="6.2" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#C8734E"/>
+    </marker>
+  </defs><polyline xmlns="http://www.w3.org/2000/svg" points="760,360 760,470" fill="none" stroke="#7A9984" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="134" viewBox="1078 348 24 134" x="1182" y="458.79999923706055" preserveAspectRatio="xMidYMid meet"><defs xmlns="http://www.w3.org/2000/svg">
+    <marker id="arrow" viewBox="0 0 8 8" refX="6.2" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#C8734E"/>
+    </marker>
+  </defs><polyline xmlns="http://www.w3.org/2000/svg" points="1090,360 1090,470" fill="none" stroke="#7A9984" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="134" viewBox="1343 348 24 134" x="1447" y="458.79999923706055" preserveAspectRatio="xMidYMid meet"><defs xmlns="http://www.w3.org/2000/svg">
+    <marker id="arrow" viewBox="0 0 8 8" refX="6.2" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#C8734E"/>
+    </marker>
+  </defs><polyline xmlns="http://www.w3.org/2000/svg" points="1355,360 1355,470" fill="none" stroke="#7A9984" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/></svg>
+  <polyline points="322,416.79999923706055 384,416.79999923706055" fill="none" stroke="#D7A545" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="" marker-end="url(#canvasArrowExport-_D7A545)"></polyline>
+<polyline points="522,416.79999923706055 624,416.79999923706055" fill="none" stroke="#7A9984" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="" marker-end="url(#canvasArrowExport-_7A9984)"></polyline>
+  </g>
+</svg>
